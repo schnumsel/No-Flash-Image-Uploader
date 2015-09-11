@@ -1,0 +1,12 @@
+{
+  "name": "schnumsel/no-flash-image-uploader",
+  "description": "Dull Uploader",
+  "type": "magento-module",
+  "require": {
+    "php": ">=5.3.0",
+    "composer/installers": "*"
+  },
+  "extra": {
+    "installer-name": "Dull_Uploader"
+  }
+}
